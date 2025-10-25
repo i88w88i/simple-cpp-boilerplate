@@ -1,4 +1,8 @@
 {
     "editor.formatOnSave": true,
-    "editor.defaultFormatter": "xaver.clang-format"
+    "editor.defaultFormatter": "xaver.clang-format",
+
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    }
 }
