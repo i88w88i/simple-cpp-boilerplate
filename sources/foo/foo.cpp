@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include <foo.hpp>
+#include <foo/foo.hpp>
 
 void tmpl::foo() {
 	std::cout << "Hello world!" << std::endl;
